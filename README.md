@@ -52,3 +52,9 @@ Design patterns são ferramentas poderosas que ajudam a:
 ## Conclusão
 
 Design patterns são ferramentas poderosas para organizar e padronizar soluções de software. Eles ajudam a reduzir complexidade, aumentar a manutenibilidade e promover boas práticas, mas **sempre precisam ser adaptados ao contexto do seu projeto**.
+
+---
+
+## 🛠️ Referências de estudo
+
+- 🌍 Site: [Refactoring Guru](https://refactoring.guru/design-patterns)
