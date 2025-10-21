@@ -61,6 +61,7 @@ Este repositório é dividido em seções para facilitar o estudo:
 | Arquivo | Descrição |
 |----------|------------|
 | [📖 História dos Design Patterns](historia_patterns.md) | Entenda como os patterns surgiram e quem são os criadores. |
+| [🏷️ Classificação de Design Pattern](classificacao.md) | Tipos de padrões e seus propósitos principais. |
 
 ---
 
