@@ -23,7 +23,7 @@ Uma boa analogia é a **construção de estradas**:
 
 Todos os padrões também podem ser categorizados pelo seu **propósito**. Este guia aborda três grupos principais:
 
-1. **Padrões Criacionais (*Creational Patterns*)**  
+1. **[Padrões Criacionais (*Creational Patterns*)](creational_patterns/creational_patterns.md)**  
    - Fornecem mecanismos de criação de objetos.  
    - Aumentam a **flexibilidade** e o **reuso de código existente**.
 
